@@ -1,4 +1,6 @@
-# Greenfield Whitepaper
+# BNB Greenfield Whitepaper
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The goal of the BNB Greenfield is to unleash the power of decentralized blockchain and storage technology on data ownership and data economy.
 
