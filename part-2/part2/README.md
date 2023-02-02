@@ -22,11 +22,3 @@ This part of the whitepaper is neither accurate as industrial designs nor seriou
     * [11.2 Token Curated Registries](./#112-token-curated-registries)
   * [12 Showcases: Personal Data Market](./#12-showcases-personal-data-market)
   * [13 From Showcases to Real Production](./#13-from-showcases-to-real-production)
-
-##
-
-##
-
-##
-
-##
