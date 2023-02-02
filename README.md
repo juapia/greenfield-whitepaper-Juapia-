@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # BNB Greenfield Whitepaper
 
 
